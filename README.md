@@ -4,7 +4,9 @@ A lightweight terminal‑based tool for storing and reusing custom shell command
 
 - [Instalation](#instalation)
   - [Oh My Zsh](#oh-my-zsh)
+    - [Update](#update)
   - [Manual](#manual-git-clone)
+    - [Manual update](#manual-update)
 - [Description](#description)
 - [What can it do?](#what-can-it-do)
 - [Advantages](#advantages)
@@ -36,6 +38,14 @@ plugins=(
 )
 ```
 
+#### Update
+
+Run
+
+```
+cd $ZSH_CUSTOM/plugins/zsh-cli-companion && git pull
+```
+
 ### Manual (Git Clone)
 
 1. Clone this repository somewhere on your machine. This guide will assume `~/.zsh/zsh-cli-companion`.
@@ -51,6 +61,14 @@ source ~/.zsh/zsh-cli-companion/zsh-cli-companion.zsh
 ```
 
 3. Start a new terminal session.
+
+#### Manual update
+
+Run
+
+```
+cd ~/.zsh/zsh-cli-companion && git pull
+```
 
 ## Description
 
