@@ -1,3 +1,5 @@
+![❤️ Made by human](https://raw.githubusercontent.com/kamil-cy/badges/main/svg/made_by_human_red_heart.svg)
+
 # ZSH CLI Companion
 
 A lightweight terminal‑based tool for storing and reusing custom shell commands. It lets you build your own command library without unnecessary dependencies, a GUI or complicated configuration.
